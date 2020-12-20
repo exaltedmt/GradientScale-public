@@ -9,7 +9,7 @@ a number of "artsy" ways. This project will make use of interfaces and JavaFX 8.
 
 For this project, we will be using the [Simple Build System (sbt)](http://www.scala-sbt.org/). 
 If you clone the project from the GitHub repository then everything you need 
-in order to compile and run your project on <code>nike</code> is already included. 
+in order to compile and run your project on <code>terminal</code> is already included. 
 In order to compile your project, you can use the following command:
 
     $ ./sbt compile
