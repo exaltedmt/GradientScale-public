@@ -2,7 +2,7 @@
 
 ![Artsy](http://i.imgur.com/YciJ2sl.png)
 
-Your goal is to implement a Java application that can stitch together multiple images in
+The goal is to implement a Java application that can stitch together multiple images in
 a number of "artsy" ways. This project will make use of interfaces and JavaFX 8.
 
 ## Build System
